@@ -6,7 +6,7 @@ Simple autoclicker created with [customtkinter](https://customtkinter.tomschiman
 
 ## Download
 
-Click to [Download](https://github.com/Safik121/ADSClicker/raw/main/ADS%20Clicker.exe)!
+Click to [Download](https://github.com/Safik121/ADS-Clicker/raw/main/ADS%20Clicker.exe)!
 
     
 ## Features
