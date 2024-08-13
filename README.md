@@ -17,6 +17,18 @@ Click to [Download](https://github.com/Safik121/ADS-Clicker/raw/main/ADS%20Click
 
 
 
+## FAQ
+
+#### Why did my antivirus detect the autoclicker as harmful?
+
+It is a false positive
+
+#### What is false positive?
+
+Antivirus software sometimes mistakenly identifies safe .exe files as malicious due to their behavior or code patterns.
+
+
+
 ## License
 
 [GNU](https://www.gnu.org/licenses/gpl-3.0.html)
