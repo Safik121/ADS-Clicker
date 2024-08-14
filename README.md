@@ -21,7 +21,7 @@ Click to [Download](https://github.com/Safik121/ADS-Clicker/raw/main/ADS%20Click
 
 #### Why did my antivirus detect the autoclicker as harmful?
 
-It is a false positive
+It is a false positive.
 
 #### What is false positive?
 
